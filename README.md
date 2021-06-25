@@ -1,0 +1,1 @@
+bdac-post-types
